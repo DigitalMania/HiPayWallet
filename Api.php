@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: mourad
- * Date: 9/16/14
- * Time: 1:56 PM
- */
-
 namespace DigitalMania\HiPay\HiPayWallet;
 
 
